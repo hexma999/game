@@ -28,73 +28,73 @@ level3 = [
 ]
 
 level4 = [
-    "WWWWWWWWW",
+    "WWWWWWWWWW",
     "W..G.....W",
     "W..B.B...W",
     "W.W.W.W..W",
     "W....P...W",
     "W.....G..W",
-    "WWWWWWWWW"
+    "WWWWWWWWWW"
 ]
 
 level5 = [
-    "WWWWWWWWW",
+    "WWWWWWWWWW",
     "W..G..G..W",
     "W..B..B..W",
     "W.W.W.W..W",
     "W....P...W",
     "W........W",
-    "WWWWWWWWW"
+    "WWWWWWWWWW"
 ]
 
 level6 = [
-    "WWWWWWWWW",
+    "WWWWWWWWWW",
     "W.P......W",
     "W..B..B..W",
     "W..W.W...W",
     "W..G..G..W",
     "W........W",
-    "WWWWWWWWW"
+    "WWWWWWWWWW"
 ]
 
 level7 = [
-    "WWWWWWWWW",
+    "WWWWWWWWWW",
     "W....G...W",
     "W.B..B..PW",
     "W.W.W.W..W",
     "W....G...W",
     "W........W",
-    "WWWWWWWWW"
+    "WWWWWWWWWW"
 ]
 
 level8 = [
-    "WWWWWWWWW",
+    "WWWWWWWWWW",
     "W..G..G..W",
     "W.B..B..BW",
     "W.W.W.W..W",
     "W....P..GW",
     "W........W",
-    "WWWWWWWWW"
+    "WWWWWWWWWW"
 ]
 
 level9 = [
-    "WWWWWWWWWW",
+    "WWWWWWWWWWW",
     "W..G..G..PW",
     "W..B..B...W",
     "W.W.W.W.W.W",
     "W....G.B..W",
     "W.........W",
-    "WWWWWWWWWW"
+    "WWWWWWWWWWW"
 ]
 
 level10 = [
-    "WWWWWWWWWW",
+    "WWWWWWWWWWW",
     "W..G..G..GW",
     "W.B..B..B.W",
     "W.W.W.W.W.W",
     "W....P....W",
     "W.........W",
-    "WWWWWWWWWW"
+    "WWWWWWWWWWW"
 ]
 
 levels = [level1, level2, level3, level4, level5, level6, level7, level8, level9, level10]
