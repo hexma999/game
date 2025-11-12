@@ -100,7 +100,7 @@ while running:
         print("🎉 클리어!")
         current_level += 1
         if current_level < len(levels):
-            print("current_level=",current_level,", len=",len(levels))
+            #print("current_level=",current_level,", len=",len(levels))
             load_level(levels[current_level])   # 다음 레벨 불러오기
         else:
             print("모든 레벨 클리어!")
